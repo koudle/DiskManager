@@ -1,4 +1,6 @@
-package com.koudle.diskmanager;
+package com.koudle.diskmanager.file;
+
+import com.koudle.diskmanager.FileManager;
 
 import java.io.File;
 import java.net.URI;
